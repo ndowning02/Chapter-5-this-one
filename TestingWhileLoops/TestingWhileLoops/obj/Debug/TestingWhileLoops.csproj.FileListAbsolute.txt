@@ -1,0 +1,7 @@
+C:\Users\nd145438\Desktop\Chapter 5\TestingWhileLoops\TestingWhileLoops\bin\Debug\TestingWhileLoops.exe.config
+C:\Users\nd145438\Desktop\Chapter 5\TestingWhileLoops\TestingWhileLoops\bin\Debug\TestingWhileLoops.exe
+C:\Users\nd145438\Desktop\Chapter 5\TestingWhileLoops\TestingWhileLoops\bin\Debug\TestingWhileLoops.pdb
+C:\Users\nd145438\Desktop\Chapter 5\TestingWhileLoops\TestingWhileLoops\obj\Debug\TestingWhileLoops.csprojAssemblyReference.cache
+C:\Users\nd145438\Desktop\Chapter 5\TestingWhileLoops\TestingWhileLoops\obj\Debug\TestingWhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\nd145438\Desktop\Chapter 5\TestingWhileLoops\TestingWhileLoops\obj\Debug\TestingWhileLoops.exe
+C:\Users\nd145438\Desktop\Chapter 5\TestingWhileLoops\TestingWhileLoops\obj\Debug\TestingWhileLoops.pdb
